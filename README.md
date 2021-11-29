@@ -1,4 +1,4 @@
 # Final-Project
 
 
-This is my Final Project with General Assembly https://prezi.com/view/g1GppGibcz7odDQYS5h1/
+This is my final project presentation in General Assembly - Data Science Program https://prezi.com/view/g1GppGibcz7odDQYS5h1/
